@@ -116,4 +116,4 @@ Focus: FPGA acceleration, real-time systems, neural network deployment on edge d
 
 ---
 
-*This project is part of an ongoing effort to build open-source tooling for FPGA-based AI acceleration.*
+*This project is a personal open-source effort to explore FPGA-based AI acceleration techniques.*
