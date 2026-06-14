@@ -1,0 +1,44 @@
+# ===========================
+# Vivado / HLS 构建产物
+# ===========================
+hls/nn_accelerator/
+hls/vivado_hls.app/
+*.log
+*.dmp
+hs_err_*
+*.jou
+*.str
+*.rpt
+*.xml
+*.dcp
+xsim.dir/
+.vivado_hls*
+
+# ===========================
+# 发布包 / 二进制产物
+# ===========================
+release/*.zip
+release/*.exe
+ip_release/*.zip
+ip_release/nn_engine_*
+
+# ===========================
+# Python
+# ===========================
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# ===========================
+# 通用
+# ===========================
+*.o
+*.a
+*.elf
+*.bin
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
