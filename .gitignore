@@ -31,7 +31,7 @@ __pycache__/
 .pytest_cache/
 
 # Docs — keep local only, NOT for publication
-docs/上板测试计划.md
+docs/
 
 # ===========================
 # 通用
