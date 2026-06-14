@@ -1,10 +1,10 @@
 # NN Accelerator — ONNX Neural Network Inference on FPGA
 
-[![Platform](https://img.shields.io/badge/platform-ZYNQ-7045-blue)](https://github.com/Mikeya98/nn-accelerator)
+[![Platform](https://img.shields.io/badge/platform-ZYNQ--7045-blue)](https://github.com/Mikeya98/nn-accelerator)
 [![Language](https://img.shields.io/badge/language-C%2B%2B%20%7C%20Python%20%7C%20C-orange)](https://github.com/Mikeya98/nn-accelerator)
 
 **A complete ONNX-to-FPGA neural network inference chain.**  
-Takes an ONNX model → compiles to custom ISA → runs on a hand-written HLS accelerator IP on Xilinx ZYNQ-7045 platforms.
+Takes an ONNX model → compiles to custom ISA → runs on a hand-written HLS accelerator IP on Xilinx ZYNQ-7045 platform.
 
 ---
 
@@ -104,9 +104,7 @@ See [ip_release/deployment_guide.md](ip_release/deployment_guide.md) for integra
 
 ## Platforms
 
-- Xilinx ZYNQ-7045 (XC7Z045)
-- Xilinx ZYNQ-7045
-- Verified with Vivado 2018.3
+- Xilinx ZYNQ-7045 (XC7Z045), verified with Vivado 2018.3
 
 ## Author
 
